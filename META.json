@@ -43,6 +43,8 @@
       },
       "runtime" : {
          "requires" : {
+            "Git::Repository" : "1.13",
+            "Git::Repository::Plugin::Log" : "0",
             "perl" : "5.008005"
          }
       },
@@ -53,5 +55,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/nnutter/Git-Repository-Plugin-Gerrit/issues"
+      },
+      "homepage" : "https://github.com/nnutter/Git-Repository-Plugin-Gerrit",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/nnutter/Git-Repository-Plugin-Gerrit.git",
+         "web" : "https://github.com/nnutter/Git-Repository-Plugin-Gerrit"
+      }
+   },
    "version" : "0.01"
 }
