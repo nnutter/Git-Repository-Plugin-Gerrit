@@ -67,7 +67,7 @@
          "web" : "https://github.com/nnutter/Git-Repository-Plugin-Gerrit"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_contributors" : [
       "Nathaniel Nutter <iam@nnutter.com>"
    ]
