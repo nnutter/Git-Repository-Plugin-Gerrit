@@ -67,7 +67,7 @@
          "web" : "https://github.com/nnutter/Git-Repository-Plugin-Gerrit"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "Philippe Bruhat (BooK) <book@cpan.org>",
       "Nathaniel Nutter <iam@nnutter.com>"
